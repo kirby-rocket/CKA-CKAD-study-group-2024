@@ -1,2 +1,4 @@
 node_modules/
 week-II/cluster-setup-vagrant/.vagrant/
+lego-blocks/admin-password
+lego-blocks/admin-user
